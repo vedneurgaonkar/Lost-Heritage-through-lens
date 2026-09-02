@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#32180f" />
+    <meta name="description" content="Parampara — discover Maharashtra's living heritage." />
+    <title>Parampara — Maharashtra, held in living memory</title>
+    <link rel="preload" as="image" href="assets/maharashtra-fort-hero.png" type="image/png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Playfair+Display:ital,wght@500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Parampara home"><span class="brand-mark">प</span>PARAMPARA</a>
+      <nav aria-label="Main navigation">
+        <a href="#explore">Explore</a>
+        <a href="#living">Living culture</a>
+        <button class="nav-ar" data-open-ar>⌁&nbsp; AR Studio</button>
+      </nav>
+      <a class="credits-link" href="#credits">Stack <span>↗</span></a>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-photo" role="img" aria-label="A hill fort in the Sahyadri mountains of Maharashtra"></div>
+        <div class="hero-vignette"></div>
+        <div class="hero-content">
+          <p class="eyebrow light"><span></span> Maharashtra, India <b>•</b> Living archive</p>
+          <h1 id="hero-title">A place holds<br /><em>more than stone.</em></h1>
+          <p class="hero-copy">Discover the forts, sacred spaces, crafts, music and stories that make Maharashtra move — then step closer through AR.</p>
+          <div class="hero-actions">
+            <button class="button button-cream" data-open-ar><span class="button-icon">⌁</span> Try the AR experience <span class="arrow">↗</span></button>
+            <a class="text-button light" href="#explore">Begin exploring <span>↓</span></a>
+          </div>
+        </div>
+        <div class="hero-aside">
+          <div class="sound-wave" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+          <p>Listen closely.<br />Every place has a pulse.</p>
+        </div>
+        <div class="scroll-note"><span></span> Scroll to wander</div>
+      </section>
+
+      <section class="quick-search" aria-label="Search the Maharashtra heritage repository">
+        <div class="search-intro"><span class="search-icon">⌕</span><div><p class="eyebrow">Find your way in</p><h2>What are you looking<br />to feel closer to?</h2></div></div>
+        <form id="hero-search" class="search-form">
+          <label class="sr-only" for="hero-query">Search Maharashtra heritage</label>
+          <input id="hero-query" type="search" placeholder="Try “Warli painting” or “forts near Pune”" autocomplete="off" />
+          <button aria-label="Search the archive" type="submit">↗</button>
+        </form>
+        <div class="quick-links"><button data-category="Forts & landmarks">Forts</button><button data-category="Living traditions">Folk arts</button><button data-category="Sacred architecture">Sacred places</button></div>
+      </section>
+
+      <div class="ticker" aria-label="Maharashtra heritage categories"><div><span>FORTS &amp; BASTIONS</span><b>✦</b><span>WALLS THAT REMEMBER</span><b>✦</b><span>PAINTINGS THAT SPEAK</span><b>✦</b><span>RHYTHMS THAT GATHER US</span><b>✦</b><span>FORTS &amp; BASTIONS</span><b>✦</b><span>WALLS THAT REMEMBER</span><b>✦</b></div></div>
+
+      <section class="explore-section section-padding" id="explore" aria-labelledby="explore-title">
+        <div class="section-heading">
+          <div><p class="eyebrow">The Maharashtra repository <span>02</span></p><h2 id="explore-title">Start with a story<br />that calls to you.</h2></div>
+          <p>Every entry connects you with a real place, a form of making, and the people who keep its memory alive.</p>
+        </div>
+        <div class="filter-bar" role="group" aria-label="Filter the repository">
+          <button class="filter active" data-category="">All places &amp; practices</button>
+          <button class="filter" data-category="Forts & landmarks">Forts &amp; landmarks</button>
+          <button class="filter" data-category="Sacred architecture">Sacred architecture</button>
+          <button class="filter" data-category="Living traditions">Living traditions</button>
+          <button class="small-search" id="focus-search" aria-label="Focus archive search">⌕</button>
+        </div>
+        <div class="archive-status" id="archive-status">Maharashtra-only collection</div>
+        <div class="heritage-grid" id="heritage-grid" aria-live="polite"></div>
+        <div class="empty-state" id="empty-state" hidden><span>⌕</span><h3>No stories found yet.</h3><p>Try a fort, a district, a dance form or a different search.</p><button class="text-button dark" id="clear-search">Clear search <span>×</span></button></div>
+      </section>
+
+      <section class="living-section" id="living" aria-labelledby="living-title">
+        <div class="living-photo" role="img" aria-label="A traditional Indian craft scene"></div>
+        <div class="living-copy">
+          <p class="eyebrow light">03 <span>•</span> Intangible, indispensable</p>
+          <h2 id="living-title">The heritage<br />that <em>moves.</em></h2>
+          <p>Culture does not only live in a monument. It lives in a performer’s breath, the time it takes to weave a border, a song remembered by a village, and a painted wall before a festival.</p>
+          <button class="button button-cream category-cta" data-category="Living traditions">Meet Maharashtra's living arts <span class="arrow">↗</span></button>
+          <div class="living-list"><button data-slug="warli-painting"><b>01</b> Warli painting <span>↗</span></button><button data-slug="lavani"><b>02</b> Lavani <span>↗</span></button><button data-slug="paithani-weaving"><b>03</b> Paithani weaving <span>↗</span></button></div>
+        </div>
+      </section>
+
+      <section class="journeys-section section-padding">
+        <div class="section-heading journeys-heading"><div><p class="eyebrow">05 <span>•</span> Choose a route</p><h2>Follow a thread<br />across Maharashtra.</h2></div><a class="text-button dark" href="#explore">Explore all stories <span>→</span></a></div>
+        <div class="journey-row">
+          <article class="journey-card coast"><span>01 / KONKAN</span><h3>Stone &amp; salt air</h3><p>Sea forts, Koli song and coastal memory.</p><button data-slug="sindhudurg-fort">Follow the coast <b>↗</b></button></article>
+          <article class="journey-card plateau"><span>02 / DESH</span><h3>Sound of the plateau</h3><p>Lavani, Wari and stories carried on foot.</p><button data-slug="lavani">Find the rhythm <b>↗</b></button></article>
+          <article class="journey-card sahyadri"><span>03 / SAHYADRI</span><h3>Above the clouds</h3><p>Fort trails, gateways and Maratha history.</p><button data-slug="raigad-fort">Climb into history <b>↗</b></button></article>
+        </div>
+      </section>
+
+      <section class="credits-section" id="credits" aria-labelledby="credits-title">
+        <div class="credits-top"><p class="eyebrow light">The people behind Parampara <span>06</span></p><h2 id="credits-title">Built with<br /><em>care for culture.</em></h2><p>Parampara is a student-built cultural gateway for SIH — shaped by a shared belief that heritage deserves a more alive digital home.</p></div>
+        <div class="team-grid">
+          <article><span>01</span><h3>Vanshikha</h3><p>Frontend</p></article>
+          <article><span>02</span><h3>Aarush</h3><p>Backend</p></article>
+          <article><span>03</span><h3>Kushagra</h3><p>Backend</p></article>
+          <article><span>04</span><h3>Niyati</h3><p>Presentation &amp;<br />Documentation</p></article>
+          <article><span>05</span><h3>Ved</h3><p>Research &amp;<br />Development</p></article>
+          <article><span>06</span><h3>Aneek</h3><p>Research &amp;<br />Development</p></article>
+        </div>
+        <div class="credits-bottom"><span class="brand"><i class="brand-mark">प</i>PARAMPARA</span><p>Only Maharashtra, for now.<br />Built to grow with care.</p><a href="#top">Back to the beginning ↑</a></div>
+      </section>
+    </main>
+
+    <dialog class="detail-modal" id="detail-modal">
+      <button class="modal-close" data-close-modal aria-label="Close story">×</button>
+      <div class="detail-image" id="detail-image"></div>
+      <div class="detail-content"><p class="eyebrow" id="detail-kind"></p><h2 id="detail-name"></h2><div class="detail-meta" id="detail-meta"></div><p id="detail-story"></p><div class="detail-tags" id="detail-tags"></div><button class="listen-button" id="listen-story" type="button">◖ Listen to story</button><button class="button button-dark" data-open-ar><span class="button-icon">⌁</span> View in AR Studio <span class="arrow">↗</span></button></div>
+    </dialog>
+
+    <dialog class="ar-modal" id="ar-modal">
+      <button class="modal-close ar-close" data-close-ar aria-label="Close AR Studio">×</button>
+      <div class="ar-modal-content">
+        <p class="eyebrow light">PARAMPARA / AR STUDIO</p>
+        <h2>Place <span id="ar-story-title">Raigad Fort</span><br /><em>in your space.</em></h2>
+        <p id="ar-story-intro">Select a story, open the camera and tap a point in the viewfinder to place its heritage card.</p>
+        <label class="ar-story-select"><span>Story to place</span><select id="ar-story-picker" aria-label="Select a heritage story for AR"><option>Loading Maharashtra stories…</option></select></label>
+        <div class="camera-frame" id="camera-frame"><video id="camera-feed" autoplay playsinline muted></video><div class="camera-placeholder"><span>⌁</span><b>AR READY</b><small>Camera preview appears here</small></div><div class="corner tl"></div><div class="corner tr"></div><div class="corner bl"></div><div class="corner br"></div><div class="target"></div><div class="placed-story" id="placed-story" hidden><img id="placed-story-image" alt="" /><div><b id="placed-story-name"></b><small id="placed-story-meta"></small></div><button id="remove-story" aria-label="Remove placed story">×</button></div></div>
+        <div class="ar-modal-actions"><button id="start-camera" class="button button-cream"><span class="button-icon">◉</span> Open camera</button><button id="place-story" class="text-button light">Tap to place <span id="place-story-label">Raigad Fort</span> <span>↗</span></button></div>
+        <p class="camera-note" id="camera-note">Select a story, open your camera, then use “Tap to place”. Camera stays on your device.</p>
+      </div>
+    </dialog>
+    <script src="app.js"></script>
+  </body>
+</html>

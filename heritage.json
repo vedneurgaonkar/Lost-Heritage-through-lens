@@ -1,0 +1,258 @@
+[
+  {
+    "slug": "raigad-fort",
+    "name": "Raigad Fort",
+    "category": "Forts & landmarks",
+    "kind": "Historic fort",
+    "district": "Raigad",
+    "period": "17th century",
+    "summary": "The capital of Chhatrapati Shivaji Maharaj, rising above the Sahyadris with monumental gateways, a royal court and commanding valley views.",
+    "story": "Raigad remains one of Maharashtra's most resonant symbols of self-rule. The fort is reached by an old hill path or ropeway, then explored through its ceremonial gateways, market ruins and the king's samadhi.",
+    "tags": ["Maratha history", "Sahyadri", "Shivaji Maharaj", "architecture"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nagarkhana%2C_Raigad_Fort%2C_India.jpg/500px-Nagarkhana%2C_Raigad_Fort%2C_India.jpg",
+    "accent": "#b5683a",
+    "featured": true
+  },
+  {
+    "slug": "ajanta-caves",
+    "name": "Ajanta Caves",
+    "category": "Sacred architecture",
+    "kind": "Rock-cut cave complex",
+    "district": "Chhatrapati Sambhajinagar",
+    "period": "2nd century BCE – 6th century CE",
+    "summary": "A horseshoe-shaped ravine of Buddhist caves celebrated for carved chaityas and some of India's most treasured early paintings.",
+    "story": "Ajanta's murals hold stories of the Buddha, courtly life and distant trade routes. Their careful conservation makes this a place to look slowly and closely.",
+    "tags": ["Buddhist art", "murals", "UNESCO", "rock-cut"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ajanta_%2863%29.jpg/500px-Ajanta_%2863%29.jpg",
+    "accent": "#8e4d2f",
+    "featured": true
+  },
+  {
+    "slug": "warli-painting",
+    "name": "Warli Painting",
+    "category": "Living traditions",
+    "kind": "Tribal visual art",
+    "district": "Palghar",
+    "period": "Living tradition",
+    "summary": "Earth-coloured walls, rice-paste figures and circular rhythms turn everyday life, farming and celebration into a visual language.",
+    "story": "Practised by Warli Adivasi communities, the art uses a spare but deeply expressive vocabulary of people, animals, trees and the tarpa dance. It is a living cultural practice, not merely a motif.",
+    "tags": ["Adivasi art", "painting", "Palghar", "folk art"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Painted_prayers%2C_Warli_paintings%2C_at_Sanskriti_Kendra%2C_Anandagram%2C_New_Delhi.jpg/500px-Painted_prayers%2C_Warli_paintings%2C_at_Sanskriti_Kendra%2C_Anandagram%2C_New_Delhi.jpg",
+    "accent": "#c8834f",
+    "featured": true
+  },
+  {
+    "slug": "lavani",
+    "name": "Lavani",
+    "category": "Living traditions",
+    "kind": "Dance & music",
+    "district": "Pune",
+    "period": "Living tradition",
+    "summary": "A vivid performance tradition where powerful rhythm, expressive song and the nine-yard sari meet on a live stage.",
+    "story": "Lavani is sustained by generations of performers and musicians. Its poetry ranges from social observation to devotion, carried by the pulse of the dholki.",
+    "tags": ["dance", "dholki", "performance", "folk music"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lavani_1.jpg/500px-Lavani_1.jpg",
+    "accent": "#c14a47",
+    "featured": true
+  },
+  {
+    "slug": "elephanta-caves",
+    "name": "Elephanta Caves",
+    "category": "Sacred architecture",
+    "kind": "Island cave temples",
+    "district": "Mumbai Suburban",
+    "period": "5th–8th century CE",
+    "summary": "A short ferry from Mumbai leads to a basalt sanctuary whose monumental Shiva sculptures transform a dark cave into a sacred theatre.",
+    "story": "The central Trimurti is the complex's most recognisable work, revealing Shiva's many aspects through a masterful play of scale, shadow and carved stone.",
+    "tags": ["sculpture", "Mumbai harbour", "UNESCO", "Shiva"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Elephanta_Caves_Trimurti.jpg/500px-Elephanta_Caves_Trimurti.jpg",
+    "accent": "#4e7465",
+    "featured": true
+  },
+  {
+    "slug": "paithani-weaving",
+    "name": "Paithani Weaving",
+    "category": "Living traditions",
+    "kind": "Handloom textile art",
+    "district": "Chhatrapati Sambhajinagar",
+    "period": "Living tradition",
+    "summary": "Silk, luminous zari and the distinctive peacock motif make Paithani one of Maharashtra's most cherished handwoven textiles.",
+    "story": "Named for the ancient town of Paithan, the craft asks for patience at every stage—from preparing silk to weaving complex borders by hand.",
+    "tags": ["textiles", "handloom", "silk", "craft"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Paithani_Bridal_Sari_LACMA_M.75.4.23_%282_of_2%29.jpg/500px-Paithani_Bridal_Sari_LACMA_M.75.4.23_%282_of_2%29.jpg",
+    "accent": "#9d3751",
+    "featured": false
+  },
+  {
+    "slug": "sindhudurg-fort",
+    "name": "Sindhudurg Fort",
+    "category": "Forts & landmarks",
+    "kind": "Sea fort",
+    "district": "Sindhudurg",
+    "period": "17th century",
+    "summary": "A Maratha sea fort set directly in the Arabian Sea, where laterite ramparts appear to rise out of the tide.",
+    "story": "Commissioned by Chhatrapati Shivaji Maharaj, Sindhudurg was planned as a coastal stronghold. A boat crossing is still part of the encounter.",
+    "tags": ["Konkan", "sea fort", "Maratha history", "coast"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sindhudurg_fort.JPG/500px-Sindhudurg_fort.JPG",
+    "accent": "#3f746d",
+    "featured": false
+  },
+  {
+    "slug": "pandharpur-wari",
+    "name": "Pandharpur Wari",
+    "category": "Living traditions",
+    "kind": "Pilgrimage & music",
+    "district": "Solapur",
+    "period": "Living tradition",
+    "summary": "A walking pilgrimage filled with abhang, cymbals, saffron flags and the shared rhythm of Maharashtra's Varkari community.",
+    "story": "The Wari is made collective through movement and song. Pilgrims travel in dindis toward Pandharpur, carrying a devotional culture that is renewed each year.",
+    "tags": ["Varkari", "abhang", "pilgrimage", "music"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/A_procession_Palkhi_festival_Hindu_culture_religion_rites_rituals_sights.jpg/500px-A_procession_Palkhi_festival_Hindu_culture_religion_rites_rituals_sights.jpg",
+    "accent": "#d18f2f",
+    "featured": false
+  },
+  {
+    "slug": "gateway-of-india",
+    "name": "Gateway of India",
+    "category": "Forts & landmarks",
+    "kind": "Waterfront monument",
+    "district": "Mumbai City",
+    "period": "1911–1924",
+    "summary": "Mumbai's ceremonial waterfront arch, shaped by Indo-Islamic and Gujarati design details and constantly animated by the harbour.",
+    "story": "Built to commemorate the 1911 visit of King George V and Queen Mary, the monument has since become an everyday meeting point and an icon of Mumbai.",
+    "tags": ["Mumbai", "monument", "harbour", "Indo-Saracenic"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg/500px-Mumbai_03-2016_30_Gateway_of_India.jpg",
+    "accent": "#456b86",
+    "featured": false
+  },
+  {
+    "slug": "koli-music",
+    "name": "Koli Music & Dance",
+    "category": "Living traditions",
+    "kind": "Coastal performance",
+    "district": "Mumbai Suburban",
+    "period": "Living tradition",
+    "summary": "The sea, fishing boats and communal work become song and movement in the exuberant performance culture of Maharashtra's Koli communities.",
+    "story": "Koli performances share coastal stories through call-and-response singing and gestures inspired by rowing, casting nets and bringing in a catch.",
+    "tags": ["Koli", "dance", "coastal culture", "folk music"],
+    "image": "assets/koli-dance.png",
+    "accent": "#2d7181",
+    "featured": false
+  },
+  {
+    "slug": "shaniwar-wada",
+    "name": "Shaniwar Wada",
+    "category": "Forts & landmarks",
+    "kind": "Palace fort",
+    "district": "Pune",
+    "period": "18th century",
+    "summary": "The remains of a Peshwa palace in the heart of Pune, remembered through its enormous gate, gardens and political history.",
+    "story": "Once a seven-storey royal residence, Shaniwar Wada became the administrative heart of the Peshwas. Its stone gateway and foundations still communicate its scale.",
+    "tags": ["Peshwa", "Pune", "palace", "Maratha history"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Front_view_of_Shaniwar_Wada_illuminated.jpg/500px-Front_view_of_Shaniwar_Wada_illuminated.jpg",
+    "accent": "#a96538",
+    "featured": false
+  },
+  {
+    "slug": "bharud",
+    "name": "Bharud",
+    "category": "Living traditions",
+    "kind": "Folk theatre & music",
+    "district": "Ahilyanagar",
+    "period": "Living tradition",
+    "summary": "A performative folk form that combines song, storytelling and satire to bring moral and social ideas before a community.",
+    "story": "Associated with the saint-poet Eknath, Bharud often speaks in many characters and voices, making its insights immediate, musical and memorable.",
+    "tags": ["theatre", "folk music", "storytelling", "Eknath"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Eknath_2003_stamp_of_India.jpg/500px-Eknath_2003_stamp_of_India.jpg",
+    "accent": "#7d4856",
+    "featured": false
+  },
+  {
+    "slug": "ellora-kailasa-temple",
+    "name": "Kailasa Temple, Ellora",
+    "category": "Sacred architecture",
+    "kind": "Monolithic rock-cut temple",
+    "district": "Chhatrapati Sambhajinagar",
+    "period": "8th century CE",
+    "summary": "Carved top-down from a single basalt hillside, Kailasa is a breathtaking landscape of deities, elephants, pillars and narrative sculpture.",
+    "story": "Cave 16 at Ellora is both architecture and sculpture on an extraordinary scale. Its layered courtyards and reliefs make a single mountain feel like a complete sacred precinct.",
+    "tags": ["Ellora", "sculpture", "rock-cut", "UNESCO"],
+    "image": "assets/kailasa-temple.png",
+    "accent": "#916846",
+    "featured": false
+  },
+  {
+    "slug": "csmvs-artefacts",
+    "name": "CSMVS Artefact Collection",
+    "category": "Museums & artefacts",
+    "kind": "Museum collection",
+    "district": "Mumbai City",
+    "period": "1905–present",
+    "summary": "A Mumbai museum collection that connects Maharashtra with centuries of sculpture, miniature painting, archaeology, textiles and decorative arts.",
+    "story": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya preserves objects that reward close looking: crafted metal, stone, pigment and cloth become tangible links between makers, regions and eras.",
+    "tags": ["artefacts", "museum", "Mumbai", "collections"],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg/500px-Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg",
+    "accent": "#5a6974",
+    "featured": false
+  },
+  {
+    "slug": "sinhagad-fort", "name": "Sinhagad Fort", "category": "Forts & landmarks", "kind": "Hill fort", "district": "Pune", "period": "17th century",
+    "summary": "A dramatic Sahyadri fort remembered for the Battle of Sinhagad and the courage of Tanaji Malusare.",
+    "story": "Sinhagad's steep approach, memorials and wind-swept ramparts make it one of Maharashtra's most visited historic fort trails.",
+    "tags": ["Pune", "Maratha history", "Tanaji Malusare", "Sahyadri"], "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sinhagad.jpg/500px-Sinhagad.jpg", "accent": "#69735a", "featured": true
+  },
+  {
+    "slug": "torna-fort", "name": "Torna Fort", "category": "Forts & landmarks", "kind": "Hill fort", "district": "Pune", "period": "17th century",
+    "summary": "Known as Prachandagad, Torna was the first fort captured by Chhatrapati Shivaji Maharaj in 1646.",
+    "story": "Its long ridges, gateways and high Machis reveal why Torna became such an important starting point for Swarajya.",
+    "tags": ["Pune", "Prachandagad", "Maratha history", "trek"], "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Torna_Fort_aka_Kille_Prachangad.jpg/500px-Torna_Fort_aka_Kille_Prachangad.jpg", "accent": "#6b7150", "featured": true
+  },
+  {
+    "slug": "rajgad-fort", "name": "Rajgad Fort", "category": "Forts & landmarks", "kind": "Hill fort", "district": "Pune", "period": "17th century",
+    "summary": "For decades the capital of the Maratha kingdom, Rajgad is recognised by its vast Padmavati, Suvela and Sanjivani machis.",
+    "story": "Rajgad's sprawling form holds royal memories, water reservoirs and some of the most spectacular ridgelines in the Sahyadris.",
+    "tags": ["Pune", "Maratha capital", "Sahyadri", "Shivaji Maharaj"], "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Suvela_machi%2CRajgad_fort%2C_Maharashtra%2CIndia_July2015.jpg/500px-Suvela_machi%2CRajgad_fort%2C_Maharashtra%2CIndia_July2015.jpg", "accent": "#7d6c4f", "featured": true
+  },
+  {
+    "slug": "pratapgad-fort", "name": "Pratapgad Fort", "category": "Forts & landmarks", "kind": "Hill fort", "district": "Satara", "period": "1656 CE",
+    "summary": "A forested fort near Mahabaleshwar, associated with the pivotal encounter between Chhatrapati Shivaji Maharaj and Afzal Khan.",
+    "story": "Pratapgad's double-line fortification, temple and viewpoints preserve a defining chapter in Maratha history.",
+    "tags": ["Satara", "Maratha history", "Mahabaleshwar", "Sahyadri"], "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pratapgad_The_Fort_of_Valour.jpg/500px-Pratapgad_The_Fort_of_Valour.jpg", "accent": "#57745d", "featured": false
+  },
+  {
+    "slug": "lohagad-fort", "name": "Lohagad Fort", "category": "Forts & landmarks", "kind": "Hill fort", "district": "Pune", "period": "17th century",
+    "summary": "A powerful fort above Lonavala, celebrated for its Vinchu Kata ridge and monsoon-green ramparts.",
+    "story": "Lohagad connected the Deccan plateau with Konkan trade routes and remains an accessible introduction to Maharashtra's fort heritage.",
+    "tags": ["Lonavala", "Pune", "Vinchu Kata", "trek"], "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Panoramic_view_of_the_bastions_of_Lohagad_Fort_2.jpg/500px-Panoramic_view_of_the_bastions_of_Lohagad_Fort_2.jpg", "accent": "#59775e", "featured": false
+  },
+  {
+    "slug": "visapur-fort", "name": "Visapur Fort", "category": "Forts & landmarks", "kind": "Hill fort", "district": "Pune", "period": "18th century",
+    "summary": "Lohagad's larger companion fort, with broad plateau fortifications, caves and striking monsoon approaches.",
+    "story": "Visapur was developed under the Peshwas and its ruins reward exploration through gates, cisterns and long defensive walls.",
+    "tags": ["Pune", "Lonavala", "Peshwa", "trek"], "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Fortification_wall_at_visapur.jpg/500px-Fortification_wall_at_visapur.jpg", "accent": "#63745f", "featured": false
+  },
+  {
+    "slug": "panhala-fort", "name": "Panhala Fort", "category": "Forts & landmarks", "kind": "Hill fort", "district": "Kolhapur", "period": "12th–17th century",
+    "summary": "A major Deccan fort with the iconic Teen Darwaza, granaries and a long association with Maratha history.",
+    "story": "Panhala's scale makes it feel like a fortified town, where gateways and water structures carry layers of regional history.",
+    "tags": ["Kolhapur", "Teen Darwaza", "Maratha history", "architecture"], "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Teen_darwaza_panhala.jpg/500px-Teen_darwaza_panhala.jpg", "accent": "#72543f", "featured": false
+  },
+  {
+    "slug": "shivneri-fort", "name": "Shivneri Fort", "category": "Forts & landmarks", "kind": "Birthplace fort", "district": "Pune", "period": "17th century",
+    "summary": "The hill fort at Junnar revered as the birthplace of Chhatrapati Shivaji Maharaj.",
+    "story": "Shivneri's seven gates, water tanks and hilltop temple landscape are central to Maharashtra's public memory of the Maratha founder.",
+    "tags": ["Junnar", "Pune", "Shivaji Maharaj", "Maratha history"], "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shivneri_fort1.JPG/500px-Shivneri_fort1.JPG", "accent": "#6d805f", "featured": false
+  },
+  {
+    "slug": "daulatabad-fort", "name": "Daulatabad Fort", "category": "Forts & landmarks", "kind": "Fortified citadel", "district": "Chhatrapati Sambhajinagar", "period": "12th century",
+    "summary": "A formidable basalt citadel, once Devagiri, with maze-like defenses, steep approaches and a towering Chand Minar.",
+    "story": "Daulatabad demonstrates extraordinary medieval military architecture, from its moat and dark passageways to its vertical rock defenses.",
+    "tags": ["Devagiri", "medieval architecture", "Chand Minar", "Deccan"], "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Daulatabad_Fort_a_view.JPG/500px-Daulatabad_Fort_a_view.JPG", "accent": "#725e45", "featured": false
+  },
+  {
+    "slug": "harishchandragad", "name": "Harishchandragad", "category": "Forts & landmarks", "kind": "Hill fort & temple complex", "district": "Ahilyanagar", "period": "Medieval period",
+    "summary": "A rugged Sahyadri site known for Konkan Kada, ancient caves and the Kedareshwar temple.",
+    "story": "Harishchandragad brings together mountain ecology, fort history and Shaiva heritage along one of Maharashtra's most celebrated high trails.",
+    "tags": ["Ahilyanagar", "Konkan Kada", "trek", "temple"], "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kalbhairav_pinnacle_Scj.jpg/500px-Kalbhairav_pinnacle_Scj.jpg", "accent": "#536c62", "featured": false
+  }
+]

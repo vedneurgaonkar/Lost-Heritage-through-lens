@@ -1,0 +1,13 @@
+{
+  "name": "parampara",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Maharashtra heritage discovery platform",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
